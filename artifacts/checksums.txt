@@ -1,0 +1,2 @@
+da26811c290ccffa7e8b6cb4e9b56ef4efaed93a63fdf297f327cd4797f3c2a8  cw20_factory_token.wasm
+be7b98a44b474817fa639a48e32b711a6b6663eaf399c45f6fa5a48a8958b53d  schema.wasm

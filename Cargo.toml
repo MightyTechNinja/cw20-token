@@ -1,5 +1,5 @@
 [package]
-name = "cw20-factory-token"
+name = "cw20-token"
 version = "0.1.0"
 authors = ["ducchinh1912 <eyescryptoinsights@gmail.com>"]
 edition = "2021"

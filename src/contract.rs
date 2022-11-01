@@ -18,7 +18,7 @@ use cw20_base::contract::{
 };
 
 // version info for migration info
-const CONTRACT_NAME: &str = "crates.io:cw20-factory-token";
+const CONTRACT_NAME: &str = "crates.io:cw20-token";
 const CONTRACT_VERSION: &str = env!("CARGO_PKG_VERSION");
 
 #[cfg_attr(not(feature = "library"), entry_point)]

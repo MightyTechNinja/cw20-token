@@ -3,7 +3,7 @@
 NODE="https://rpc.euphoria.aura.network:443"
 ACCOUNT="my-first-wallet"
 CHAINID="euphoria-1"
-CONTRACT_DIR="artifacts/cw20_factory_token.wasm"
+CONTRACT_DIR="artifacts/cw20_token.wasm"
 SLEEP_TIME="15s"
 
 CW20_TOKEN_ADDR="aura16kf53x8kywy6l3hd7tlde0knmnqyhx3ckemcvl0lfsgmuwfehl7sxw5lzf"

@@ -3,7 +3,7 @@
 NODE="https://rpc.euphoria.aura.network:443"
 ACCOUNT="my-first-wallet"
 CHAINID="euphoria-1"
-CONTRACT_DIR="artifacts/cw20_factory_token.wasm"
+CONTRACT_DIR="artifacts/cw20_token.wasm"
 SLEEP_TIME="15s"
 
 RES=$(aurad tx wasm store "$CONTRACT_DIR" --from "$ACCOUNT" -y --output json --chain-id "$CHAINID" --node "$NODE" --gas 35000000 --fees 35000ueaura -y --output json)

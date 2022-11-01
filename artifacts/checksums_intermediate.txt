@@ -1,2 +1,2 @@
-d63cdd28f775e375116960947ceb18626500c472711d6c890450391425823da7  ./target/wasm32-unknown-unknown/release/cw20_factory_token.wasm
-c64cbe0e3bf725580771a7b190c33d19df47f98fa883c61c0fefe2cd37a9c80e  ./target/wasm32-unknown-unknown/release/schema.wasm
+f0c0667375c589a1c4abfe73fa46543205c257891708c3400960cb2a10a72290  ./target/wasm32-unknown-unknown/release/cw20_token.wasm
+913215448794c65dfc8e9963bf40a574a8079b6e4c35cf144e8881c2d8727e5e  ./target/wasm32-unknown-unknown/release/schema.wasm
